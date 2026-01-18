@@ -3,4 +3,4 @@ from typing import Annotated
 string = Annotated[str, "string"]
 
 
-print("logs")
+print("logs") # type: ignore
