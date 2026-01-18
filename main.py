@@ -1,6 +1,6 @@
 from typing import Annotated
 
-string = Annotated[str, "string"] #changes in payment branch
+string = Annotated[str, "string"]
 
 
 print("logs")
